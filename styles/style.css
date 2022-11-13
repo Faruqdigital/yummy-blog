@@ -1,9 +1,37 @@
-/* main section */
-.container{
-    margin-top: 100px;
-}
 body{
     font-family: 'Playfair Display', serif;
+}
+/* header section */
+.header-2{
+    margin-top: 20px;
+}
+.titlee{
+    font-size: xx-large;
+    font-weight: 700;
+    margin-left: 40px;
+}
+.title-text{
+    color: #3C7D36;
+    font-size: xx-large;
+    font-weight: 700;
+}
+.navbar{
+    margin-right: 80px;
+}
+.navbar a{
+    text-decoration: none;
+    margin-left: 40px;
+    color: #1E1E1E;
+    font-weight: 600;
+}
+.empty{
+    background-color: #3C7D36;
+    width: 417px;
+}
+
+/* main section */
+.main-container{
+    margin-top: 100px;
 }
 .card img{
     width: 309px;
@@ -65,6 +93,7 @@ body{
 .footer-section{
     background-color: #3C7D36;
     color: #FFFFFF;
+    margin-top: 100px;
 }
 .copy-right{
     text-align: center;
