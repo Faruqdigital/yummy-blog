@@ -1,0 +1,79 @@
+/* main section */
+.container{
+    margin-top: 40px;
+}
+
+body{
+    font-family: 'Playfair Display', serif;
+}
+
+.card img{
+    width: 309px;
+    height: 199px;
+    margin-top: 21px;
+    margin-left: 20px;
+}
+.date{
+    margin-left: 20px;
+    font-size: medium;
+    font-weight: 700;
+}
+.card{
+    width: 351px;
+    height: 488px;
+    background-color: #E1EAE0;
+}
+.card-title{
+    font-size:x-large;
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+.card-text, .text{
+    line-height: 21px;
+    color: #666666;
+}
+
+
+.title-name{
+    font-weight: 600;
+}
+.image{
+    width: 146px;
+    height: 87px;
+}
+.title{
+    font-size: large;
+    font-weight: 600;
+    margin-left: 15px;
+}
+.title a{
+    text-decoration: none;
+    color: #3C7D36;
+
+}
+
+/* footer section */
+
+.yummy{
+    font-size:xx-large;
+    font-weight: 700;
+    /* padding-left: 15px; */
+}
+.text{
+    line-height: 21px;
+    color: #FFFFFF;
+    /* padding-left: 15px; */
+}
+
+.icon{
+    font-size: xx-large;
+}
+.footer-section{
+    background-color: #3C7D36;
+    color: #FFFFFF;
+}
+.copy-right{
+    text-align: center;
+    background-color: black;
+    color: #FFFFFF;
+}
