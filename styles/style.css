@@ -10,6 +10,7 @@ body{
     height: 199px;
     margin-top: 21px;
     margin-left: 20px;
+    border-radius: unset;
 }
 .date{
     margin-left: 20px;
@@ -20,6 +21,8 @@ body{
     width: 351px;
     height: 488px;
     background-color: #E1EAE0;
+    border: unset;
+    border-radius: unset;
 }
 .card-title{
     font-size:x-large;
